@@ -28,6 +28,7 @@ An employee management software, nothing fancy it's just a simple API with a lit
 - Add a clear and concise readme that explains all the needed steps to deploy and run test of the project in a local environment
 - Add github actions that run all tests on PR events
 - Integrate with the OpenAI API (use ChatGPT to generate the emails sent to employees when the check in for attendance)
+- The project should be containerized and running in docker
 
 ## Submission
 - Share the link to your public github repository containing your code
