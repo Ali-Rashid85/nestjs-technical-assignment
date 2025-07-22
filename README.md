@@ -1,7 +1,5 @@
 # NestJS Technical Assignment
 
-# DON'T TAKE MORE THAN 7 DAYS, AFTER RECEPTION, BEFORE SUBMITTING YOUR SOLUTION
-
 ## Description
 
 This assignment will help in assessing your technical skills. From Typescript syntax to code structure, appropriate coding principles and design patterns, and last but not least proper and relevant test coverage.
@@ -28,10 +26,6 @@ An employee management software, nothing fancy it's just a simple API with a lit
 - Send email(using queues) to the employee when an attendance record is made
 - Generate attendance report(pdf & excel) with daily attendance data
 - Add a clear and concise readme that explains all the needed steps to deploy and run test of the project in a local environment
-
-## Bonus Points
-To make your application standout from the lot🤓😉
-
 - Add github actions that run all tests on PR events
 - Integrate with the OpenAI API (use ChatGPT to generate the emails sent to employees when the check in for attendance)
 
@@ -39,5 +33,3 @@ To make your application standout from the lot🤓😉
 - Share the link to your public github repository containing your code
 
 **All features must be fully and properly tested!!!**
-
-**PS: You don't need to wait until the deadline to submit your work😉**
