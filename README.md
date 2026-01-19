@@ -1,6 +1,6 @@
 # NestJS Technical Assignment
 
-# DON'T TAKE MORE THAN 7 DAYS, AFTER RECEPTION, BEFORE SUBMITTING YOUR SOLUTION
+# TO BE SUBMITTED BY 07:30, ON THE 26th OF JANUARY 2026
 
 ## Description
 
@@ -12,19 +12,19 @@ An employee management software, nothing fancy it's just a simple API with a lit
 
 ## Stack/Tools
 
-- NestJS v10
+- NestJS v11
 - Jest for tests
 - PassportJS for authentication
 - jsPDF(for pdf reports)
 - excelJS(for excel reports)
 - OpenApi
-- TypeORM
+- TypeORM with MySQL
 
 ## Features
 
 - Full authentication system(Register, Login, Logout, Forgot password, Password reset)
 - Employee CRUD, with minimum fields(names,email,employeeIdentifier,phoneNumber) all we care about is the thing to work
-- Attendance management, record when an employee arrives at the office and when they leave
+- Attendance management, record when an employee arrives at the office and when they leave(make it simple, no need for complexity)
 - Send email(using queues) to the employee when an attendance record is made
 - Generate attendance report(pdf & excel) with daily attendance data
 - Add a clear and concise readme that explains all the needed steps to deploy and run test of the project in a local environment
@@ -32,8 +32,7 @@ An employee management software, nothing fancy it's just a simple API with a lit
 ## Bonus Points
 To make your application standout from the lot🤓😉
 
-- Add github actions that run all tests on PR events
-- Integrate with the OpenAI API (use ChatGPT to generate the emails sent to employees when the check in for attendance)
+- Add github actions that run all tests on PR events(PR created on master and development branches)
 
 ## Submission
 - Share the link to your public github repository containing your code
