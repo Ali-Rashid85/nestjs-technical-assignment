@@ -1,6 +1,6 @@
 # NestJS Technical Assignment
 
-# TO BE SUBMITTED BY 11:59 PM, ON THE 6th OF FEBRUARY 2026
+# TO BE SUBMITTED BY 11:59 PM, ON THE 8th OF FEBRUARY 2026
 
 ## Description
 
